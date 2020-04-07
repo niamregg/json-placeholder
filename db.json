@@ -1,173 +1,43 @@
 {
-  "status": "success",
+  "status": {
+    "response": "success",
+    "message": "It's work !"
+  },
   "data": [
     {
-      "id": "1",
-      "employee_name": "Tiger Nixon",
-      "employee_salary": "320800",
-      "employee_age": "61",
-      "profile_image": ""
+      "id": 1,
+      "name": "Nike Air Force 1 Easter 2020",
+      "description": "À l’occasion de la fête de Pâques, chaque année et comme une sorte de tradition depuis 2006, Nike imagine de nouveaux design hauts en couleurs. En 2020, c’est notamment à la Air Force 1 de se refaire une beauté !",
+      "price": 180.00,
+      "image": "https://cdn.shopify.com/s/files/1/2358/2817/products/Wethenew-Sneakers-France-Nike-Air-Force-1-Easter-2020-CW0367-100-1_2000x.png"
     },
     {
-      "id": "2",
-      "employee_name": "Garrett Winters",
-      "employee_salary": "170750",
-      "employee_age": "63",
-      "profile_image": ""
+      "id": 2,
+      "name": "Nike Air Max 720 Magic Flamingo",
+      "description": "",
+      "price": 260.00,
+      "image": "https://cdn.shopify.com/s/files/1/2358/2817/products/Wethenew-Sneakers-France-Nike-Air-Max-720-Magic-Flamingo-CD0683-400-1_2000x.png"
     },
     {
-      "id": "3",
-      "employee_name": "Ashton Cox",
-      "employee_salary": "86000",
-      "employee_age": "66",
-      "profile_image": ""
+      "id": 3,
+      "name": "Nike Blazer Mid 77 Vintage",
+      "description": "La Nike Blazer Mid 77 Vintage Brick Red arbore une base en cuir blanc sublimée par quelques empiècements en suede gris clair au niveau de la toebox, donnant l’impression d’une paire vieillie par le temps. On retrouve des accents de rouge sur le swoosh latéral, ainsi que sur les tags de la languette et du talon, pendant que la semelle épaisse vient finaliser le design.",
+      "price": 150.00,
+      "image": "https://cdn.shopify.com/s/files/1/2358/2817/products/Wethenew-Sneakers-France-Nike-Blazer-Mid-77-Vintage-Brick-Red-BQ6806-102-1_2000x.png"
     },
     {
-      "id": "4",
-      "employee_name": "Cedric Kelly",
-      "employee_salary": "433060",
-      "employee_age": "22",
-      "profile_image": ""
+      "id": 4,
+      "name": "Balanciaga Speed Trainer Black",
+      "description": "Dans la grande tendance mondiale des sneakers chaussettes, Balenciaga a su imposer son style avec le modèle iconique de sa gamme de baskets : la Speed Trainer. La maison propose une version minimaliste, devenue classique au fil du temps.",
+      "price": 685.00,
+      "image": "https://cdn.shopify.com/s/files/1/2358/2817/products/Wethenew-Sneakers-France-Balenciaga-Speed-Trainer-White-Black_2000x.png"
     },
     {
-      "id": "5",
-      "employee_name": "Airi Satou",
-      "employee_salary": "162700",
-      "employee_age": "33",
-      "profile_image": ""
-    },
-    {
-      "id": "6",
-      "employee_name": "Brielle Williamson",
-      "employee_salary": "372000",
-      "employee_age": "61",
-      "profile_image": ""
-    },
-    {
-      "id": "7",
-      "employee_name": "Herrod Chandler",
-      "employee_salary": "137500",
-      "employee_age": "59",
-      "profile_image": ""
-    },
-    {
-      "id": "8",
-      "employee_name": "Rhona Davidson",
-      "employee_salary": "327900",
-      "employee_age": "55",
-      "profile_image": ""
-    },
-    {
-      "id": "9",
-      "employee_name": "Colleen Hurst",
-      "employee_salary": "205500",
-      "employee_age": "39",
-      "profile_image": ""
-    },
-    {
-      "id": "10",
-      "employee_name": "Sonya Frost",
-      "employee_salary": "103600",
-      "employee_age": "23",
-      "profile_image": ""
-    },
-    {
-      "id": "11",
-      "employee_name": "Jena Gaines",
-      "employee_salary": "90560",
-      "employee_age": "30",
-      "profile_image": ""
-    },
-    {
-      "id": "12",
-      "employee_name": "Quinn Flynn",
-      "employee_salary": "342000",
-      "employee_age": "22",
-      "profile_image": ""
-    },
-    {
-      "id": "13",
-      "employee_name": "Charde Marshall",
-      "employee_salary": "470600",
-      "employee_age": "36",
-      "profile_image": ""
-    },
-    {
-      "id": "14",
-      "employee_name": "Haley Kennedy",
-      "employee_salary": "313500",
-      "employee_age": "43",
-      "profile_image": ""
-    },
-    {
-      "id": "15",
-      "employee_name": "Tatyana Fitzpatrick",
-      "employee_salary": "385750",
-      "employee_age": "19",
-      "profile_image": ""
-    },
-    {
-      "id": "16",
-      "employee_name": "Michael Silva",
-      "employee_salary": "198500",
-      "employee_age": "66",
-      "profile_image": ""
-    },
-    {
-      "id": "17",
-      "employee_name": "Paul Byrd",
-      "employee_salary": "725000",
-      "employee_age": "64",
-      "profile_image": ""
-    },
-    {
-      "id": "18",
-      "employee_name": "Gloria Little",
-      "employee_salary": "237500",
-      "employee_age": "59",
-      "profile_image": ""
-    },
-    {
-      "id": "19",
-      "employee_name": "Bradley Greer",
-      "employee_salary": "132000",
-      "employee_age": "41",
-      "profile_image": ""
-    },
-    {
-      "id": "20",
-      "employee_name": "Dai Rios",
-      "employee_salary": "217500",
-      "employee_age": "35",
-      "profile_image": ""
-    },
-    {
-      "id": "21",
-      "employee_name": "Jenette Caldwell",
-      "employee_salary": "345000",
-      "employee_age": "30",
-      "profile_image": ""
-    },
-    {
-      "id": "22",
-      "employee_name": "Yuri Berry",
-      "employee_salary": "675000",
-      "employee_age": "40",
-      "profile_image": ""
-    },
-    {
-      "id": "23",
-      "employee_name": "Caesar Vance",
-      "employee_salary": "106450",
-      "employee_age": "21",
-      "profile_image": ""
-    },
-    {
-      "id": "24",
-      "employee_name": "Doris Wilder",
-      "employee_salary": "85600",
-      "employee_age": "23",
-      "profile_image": ""
+      "id": 5,
+      "name": "Adidas Yeezy Boost 350",
+      "description": "La Adidas Yeezy Boost 350 V2 Cinder Reflective se pare d’une base en primeKnit gris anthracite, avec la fameuse bande semi-translucide sur le quarter panel, prenant ainsi un aspect réfléchissant grâce à la technologie 3M Reflective. La gumsole Boost est toujours présente, et complète le design signé Yeezy.",
+      "price": 400.00,
+      "image": "https://cdn.shopify.com/s/files/1/2358/2817/products/Wethenew-Sneakers-France-Adidas-Yeezy-Boost-350-V2-Desert-Sage-1_2000x.png"
     }
   ]
 }
